@@ -2,7 +2,7 @@
 
 **March 26, 2017**
 
-We've shipped our first guide today! Grab your copy today! 
+We've shipped our first guide today! Grab your copy today by clicking the Buy Button above! 
 
 Want to get a free copy in exchange for your feedback? [Request a review copy here!](https://form.jotform.us/70847021084149)
 
