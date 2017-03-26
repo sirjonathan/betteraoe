@@ -1,3 +1,5 @@
+## Updates
+
 **March 26, 2017**
 
 We've shipped our first guide today! Grab your copy today! 
