@@ -6,6 +6,7 @@ We've shipped our first guide today! Grab your copy today!
 
 Want to get a free copy in exchange for your feedback? [Request a review copy here!](https://form.jotform.us/70847021084149)
 
+---
 
 ## Frequently Asked Questions
 
@@ -21,7 +22,7 @@ Also, charging for this means we can re-invest and put more time and money into 
 
 Well, if folks are interested and find these guides helpful we'll make more! Our plans include:
 
-* Fast Castle counter guides like tower rushing, archer rushing, monks, etc
-* Ongoing updates and refinements to guides as we receive feedback
-* Civilization specific guides 
-* Maps specific guides 
++ Fast Castle counter guides like tower rushing, archer rushing, monks, etc
++ Ongoing updates and refinements to guides as we receive feedback
++ Civilization specific guides 
++ Maps specific guides 
